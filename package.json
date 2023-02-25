@@ -1,0 +1,22 @@
+{
+  "name": "synchook-server",
+  "version": "0.1.0",
+  "description": "Synchook Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "synchook",
+    "git",
+    "commit",
+    "contribution",
+    "universal",
+    "github",
+    "bitbucket",
+    "gitlab",
+    "codecommit"
+  ],
+  "author": "june07",
+  "license": "MIT"
+}
